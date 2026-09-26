@@ -1,0 +1,7 @@
+.env
+*.pem
+ADMIN_KEY*
+secrets/
+node_modules/
+.wrangler/
+.DS_Store
